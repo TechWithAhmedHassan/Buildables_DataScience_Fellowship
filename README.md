@@ -6,7 +6,7 @@ It showcases hands-on implementations of core data science concepts, real-world 
 ---
 
 ## 🚀 Overview
-The fellowship is designed to provide practical training in **Data Science, Machine Learning, and AI**.  
+The fellowship is designed to provide practical training in **Data Science, Machine Learning, and AI**  
 This repository includes:
 - Coursework and exercises
 - Mini-projects and case studies
