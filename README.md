@@ -1,7 +1,7 @@
 # 📊 Buildables Data Science Fellowship
 
 This repository contains my work, projects, and learning materials from the **Buildables Data Science Fellowship** program
-It showcases hands-on implementations of core data science concepts, real-world problem-solving, and portfolio-ready projects.
+It showcases hands-on implementations of core data science concepts, real-world problem-solving, and portfolio-ready projects
 
 ---
 
